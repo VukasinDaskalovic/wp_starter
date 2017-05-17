@@ -3,7 +3,7 @@ get_header();
 ?>
     <section>
 
-        <div class="container">
+        <div class="container home-wrapper">
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <?php
